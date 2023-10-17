@@ -1,16 +1,11 @@
 # meals
 
-A new Flutter project.
+Screenshots of the meals app are provided below:
 
-## Getting Started
+<img src="https://github.com/ayeshakhan1/dice_roller/raw/main/assets/74055769/de22e59e-3485-4fdb-b680-8606276ca129" width="280" height="600" alt="ss-1">
+<img src="https://github.com/ayeshakhan1/dice_roller/raw/main/assets/74055769/524a1d17-fcd3-4eb6-b77b-33539f828c34" width="280" height="600" alt="ss-2">
+<img src="https://github.com/ayeshakhan1/dice_roller/raw/main/assets/74055769/629e1fdc-3b7f-433e-baa5-a9254c0b1d26" width="280" height="600" alt="ss-3">
+<img src="https://github.com/ayeshakhan1/dice_roller/raw/main/assets/74055769/7a55ad3b-8179-40e4-8a7b-f59eaecf808e" width="280" height="600" alt="ss-4">
+<img src="https://github.com/ayeshakhan1/dice_roller/raw/main/assets/74055769/b2ef10b7-a75b-40eb-97e6-2af2f168a67e" width="280" height="600" alt="ss-5">
+<img src="https://github.com/ayeshakhan1/dice_roller/raw/main/assets/74055769/f5736bc1-9e65-4c79-a627-46c3a8f5aa57" width="280" height="600" alt="ss-6">
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
